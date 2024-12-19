@@ -1,2 +1,2 @@
 # project
-this is my first project
+this is full stack project
